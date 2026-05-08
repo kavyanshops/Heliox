@@ -182,7 +182,7 @@ HF Radio risk is derived from live X-ray flux class independently of Kp.
 
 ## 🎨 Design System
 
-Heliox uses a cinematic space-weather aesthetic:
+Heliox use a cinematic space-weather aesthetic:
 
 - **Background**: Deep black surfaces with subtle atmospheric contrast
 - **Typography**: Display-forward headings with a clean body type system
